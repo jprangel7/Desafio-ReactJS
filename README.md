@@ -1,4 +1,4 @@
-# Desafio-Database-Upload
+# Desafio-ReactJS
 Desafio proposto durante o BootCamp GoStack 11, para testar o conhecimento adquirido sobre ReactJS.
 O desafio consiste em armazenar repositórios de um portfólio, usando o back-end já desenvolvido em um desafio anterior. 
 
